@@ -1,20 +1,19 @@
-/*******************************************************************************************
-* @Name         testClass 
-* @Author       Neha Kumari <author@email.com>
-* @Date         01/29/2021
-* @Description  [Story/Defect #]This class contains methods to display reusable code commenting
-*******************************************************************************************/
-/* MODIFICATION LOG
-* Version          Developer          Date                  Description
-*-------------------------------------------------------------------------------------------
-* 1.0              Firstname          01/29/2021            Initial Creation                                                      
-*******************************************************************************************/
+/**
+ * @File Name          : testClass
+ * @Description        : [Story/Def #] This is a sample class for code comment
+ * @Author             : Neha Kumari <autho@email.com>
+ * @Created On         : 26/02/2021
+ * @Modification Log   : 
+ * Ver       Date            Author            Modification
+ * 1.0       26/02/2021      Neha Kumari       Initial Version
+ * 2.0       28/02/2021      Hari              Added logic for Account Save
+**/
 public class testClass(){
-  /**************************************************************************************
+  /***********************************************************************
   * @Description  This is a test method
   * @Param		    String - Username of the account
   * @Return       String - Returns the last name. 
-  **************************************************************************************/ 
+  ************************************************************************/ 
   public static String testMethod(String str){
     return 'test';
   }
